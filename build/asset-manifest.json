@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ccfdeb.chunk.css",
+    "main.js": "/static/js/main.5d902198.chunk.js",
+    "main.js.map": "/static/js/main.5d902198.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14d6184a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14d6184a.js.map",
+    "static/js/2.bc256e4b.chunk.js": "/static/js/2.bc256e4b.chunk.js",
+    "static/js/2.bc256e4b.chunk.js.map": "/static/js/2.bc256e4b.chunk.js.map",
+    "static/js/3.23c3af5e.chunk.js": "/static/js/3.23c3af5e.chunk.js",
+    "static/js/3.23c3af5e.chunk.js.map": "/static/js/3.23c3af5e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1ccfdeb.chunk.css.map": "/static/css/main.e1ccfdeb.chunk.css.map",
+    "static/js/2.bc256e4b.chunk.js.LICENSE.txt": "/static/js/2.bc256e4b.chunk.js.LICENSE.txt",
+    "static/media/about-img.b50db0fa.bin": "/static/media/about-img.b50db0fa.bin",
+    "static/media/blog-1.065d1256.jpeg": "/static/media/blog-1.065d1256.jpeg",
+    "static/media/blog-2.aad86213.jpeg": "/static/media/blog-2.aad86213.jpeg",
+    "static/media/blog-3.facb0a62.jpeg": "/static/media/blog-3.facb0a62.jpeg",
+    "static/media/cart-item-1.e96f2493.png": "/static/media/cart-item-1.e96f2493.png",
+    "static/media/cart-item-2.a126b218.png": "/static/media/cart-item-2.a126b218.png",
+    "static/media/cart-item-3.24f36923.png": "/static/media/cart-item-3.24f36923.png",
+    "static/media/cart-item-4.55373ba7.png": "/static/media/cart-item-4.55373ba7.png",
+    "static/media/style.css": "/static/media/home-img.965e18e6.bin",
+    "static/media/logo.bbdaaa34.png": "/static/media/logo.bbdaaa34.png",
+    "static/media/menu-1.a0b16a8f.png": "/static/media/menu-1.a0b16a8f.png",
+    "static/media/menu-2.24f36923.png": "/static/media/menu-2.24f36923.png",
+    "static/media/menu-3.1bedaa57.png": "/static/media/menu-3.1bedaa57.png",
+    "static/media/menu-4.102bafe3.png": "/static/media/menu-4.102bafe3.png",
+    "static/media/menu-5.55373ba7.png": "/static/media/menu-5.55373ba7.png",
+    "static/media/menu-6.1e627e81.png": "/static/media/menu-6.1e627e81.png",
+    "static/media/pic-1.b105fe43.png": "/static/media/pic-1.b105fe43.png",
+    "static/media/product-1.ca74090c.png": "/static/media/product-1.ca74090c.png",
+    "static/media/product-3.80abee24.png": "/static/media/product-3.80abee24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d6184a.js",
+    "static/js/2.bc256e4b.chunk.js",
+    "static/css/main.e1ccfdeb.chunk.css",
+    "static/js/main.5d902198.chunk.js"
+  ]
+}

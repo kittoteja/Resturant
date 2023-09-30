@@ -29,7 +29,7 @@ const Products = () => {
                   <i className="fas fa-star-half-alt"></i>
                 </div>
                 <div className="price">
-                  $15.99 <span>$20.99</span>
+                ₹150 <span>₹200</span>
                 </div>
               </div>
             </div>
